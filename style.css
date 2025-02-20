@@ -52,5 +52,5 @@ body {
   display: flex; /* Usa flexbox para alinhamento interno */
   align-items: center; /* Alinha itens verticalmente */
   justify-content: center; /* Centraliza horizontalmente */
-  border: 5px solid white; /* Adiciona uma borda branca */
+  border: 5px solid rgb(151, 14, 14); /* Adiciona uma borda branca */
 }
